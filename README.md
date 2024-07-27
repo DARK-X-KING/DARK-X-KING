@@ -4,13 +4,12 @@
  <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=25&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=480&height=60&lines=%E2%9A%98+Inspiring+the+intelligence.+Connecting+you+digitally.+%F0%9F%90%9D" alt="Typing SVG" /></a>
   </p>
-<div align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=My+Name+is+MINZZA;New+Beginning+Developer;SUPER+MIND" alt="Typing SVG" /></a>   
-</p> 
-<div align="center">
-  <img src="https://github.com/DARK-X-KING.png" alt="Your Profile Picture" width="300" height="300">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+# Stats
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DARK-X-KING&theme=github_dark)
+![GitHub profile stats](https://github-readme-stats.vercel.app/api?username=DARK-X-KING&count_private=true&show_icons=true&theme=aura)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YewoMhango&layout=compact&theme=aura&langs_count=8&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DARK-X-KING&theme=midnight-purple)
   <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
